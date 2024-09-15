@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ceumr.github.io/cPc/sitemap.cPc.gz
